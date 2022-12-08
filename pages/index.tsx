@@ -315,6 +315,12 @@ const Home: NextPage = () => {
         )}
       </div>
       {/* Powered by thirdweb */}{" "}
+      <div
+        className={styles.buttonGapTop}
+      />
+      <div
+        className={styles.buttonGapTop}
+      />
     </div>
   );
 };

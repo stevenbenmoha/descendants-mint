@@ -3,7 +3,7 @@
 /* Change the values in here to match your branding */
 :root {
   /* Background color of the page */
-  --background-color: linear-gradient(180deg, rgba(78,34,195,1) 0%, rgba(195,100,173,1) 42%, rgba(111,159,249,1) 100%);
+  --background-color: linear-gradient(180deg, rgb(80, 26, 229) 0%, rgb(149, 107, 247) 42%, rgba(111,159,249,1) 100%);
 
   /* Color of the text/words */
   --text-color: #fff;
@@ -15,7 +15,7 @@
   --color-secondary: #418dff;
 
   /* Which font you want to use */
-  --font: "Inter", sans-serif;
+  --font: "Palatino", sans-serif;
 
   /* Color of the border around items */
   --border-color: rgba(255, 255, 255, 0.5);
